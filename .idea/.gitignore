@@ -1,6 +1,6 @@
 # Default ignored files
-#/workspace.xml
-#.idea
-#out
-#*.iml
-#/asd
+/workspace.xml
+.idea
+out
+*.iml
+/asd
