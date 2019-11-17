@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c4087d5-cb3a-4e3e-aa7f-4299b189c13e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/happyjava.java" beforeDir="false" />
+    <list default="true" id="5c4087d5-cb3a-4e3e-aa7f-4299b189c13e" name="Default Changelist" comment="pet">
+      <change afterPath="$PROJECT_DIR$/src/pet.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
