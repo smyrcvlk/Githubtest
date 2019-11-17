@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c4087d5-cb3a-4e3e-aa7f-4299b189c13e" name="Default Changelist" comment="updated-1" />
+    <list default="true" id="5c4087d5-cb3a-4e3e-aa7f-4299b189c13e" name="Default Changelist" comment="pet">
+      <change afterPath="$PROJECT_DIR$/src/pet.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="test2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.car">
+  <component name="RunManager" selected="Application.phone">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="githubtestproject" />
@@ -69,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="car" />
+    <configuration name="phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="phone" />
       <module name="githubtestproject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,10 +80,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.car" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.phone" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -167,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574019126418</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated">
+      <created>1574019521437</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574019521437</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated">
+      <created>1574019569718</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574019569718</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,6 +199,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="car" />
+    <MESSAGE value="pet" />
+    <option name="LAST_COMMIT_MESSAGE" value="pet" />
   </component>
 </project>
